@@ -1,0 +1,40 @@
+header {
+    background-color: #CE0505;
+    height: 75px;
+    position: relative;
+}
+
+#logo {
+    color: #CE0505;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    padding: 6px 15px;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 8px;
+}
+
+.login-signup{
+    background-color: #CE0505;
+    position: absolute;
+    word-spacing: 10px;
+    right: 100px;
+    padding-top: 15px;
+}
+
+.login {
+    color: white;
+    background-color: #CE0505;
+    margin-right: 10px;
+    border: none;
+}
+
+.signup {
+    color: white;
+    background-color: #CE0505;
+    word-spacing: normal;
+    padding: 5px;
+    border: 1px solid white;
+}
